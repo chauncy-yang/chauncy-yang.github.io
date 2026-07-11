@@ -2,7 +2,7 @@
 home: true
 title: 首页
 heroText: 📚 我的知识笔记
-tagline: 用 VuePress 构建的个人知识库 — 记录学习、分享思考
+tagline: 个人知识库 — 记录学习、分享思考
 actions:
   - text: 开始阅读 →
     link: /guide/
